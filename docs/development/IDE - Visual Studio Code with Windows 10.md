@@ -6,7 +6,7 @@
 
 ## Setup
 
-1. Setup build environment using [generic WSL guide](Building%20in%20Windows%2010%20with%20Linux%20Subsystem.md)
+1. Setup build environment using [generic WSL guide](Building%20in%20Windows%2010%20or%2011%20with%20Linux%20Subsystem.md)
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/)
 1. From the VS Code Extensions download [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) plugin
 1. Open INAV folder
